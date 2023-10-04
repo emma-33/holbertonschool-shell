@@ -1,0 +1,6 @@
+Script 0 : prints the absolute path of the current working directory
+Script 1 : display the contents list of the current directory
+Script 2 : changes the working directory to the user's home directory
+Script 3 : display current directory contents in a long format
+Script 4 : display current directory contents, including hidden files unsing the long format
+Script 5 : display cuurent directory contents in long format, with user and group IDs display numerically and hidden files
