@@ -15,3 +15,4 @@ Script 13 :takes a list of words as input and prints only words that appear exac
 Script 14 :display lines containing the pattern “root” from the file /etc/passwd
 Script 15 :display the number of lines that contain the pattern “bin” in the file /etc/passwd
 Script 16 :display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+Script 17 :display all the lines in the file /etc/passwd that do not contain the pattern “bin”
