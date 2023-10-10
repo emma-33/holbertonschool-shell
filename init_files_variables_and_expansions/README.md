@@ -6,3 +6,4 @@ Script 4 :lists environment variables
 Script 5 :lists all local variables and environment variables, and functions
 Script 6 :creates a new local variable
 Script 7 :creates a new global variable
+Script 8 :prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
