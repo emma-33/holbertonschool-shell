@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -E [13579]
+grep -E [R] [013579] [
