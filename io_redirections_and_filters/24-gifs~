@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -iname "a-z,A-Z" -name "*.gif" | tr -d ".gif" | printf '%f\n'
