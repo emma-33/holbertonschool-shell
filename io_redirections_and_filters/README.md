@@ -21,3 +21,4 @@ Script 19 :replace all characters A and c from input to Z and e respectively
 Script 20 :removes all letters c and C from input
 Script 21 :reverse its input
 Script 22 :displays all users and their home directories, sorted by users
+Script 23 :finds all empty files and directories in the current directory and all sub-directories
